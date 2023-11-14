@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\C++ Code\Assignment 3\Assignment 3\Main.cpp(35,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  infixToPostfix.cpp
+  Generating Code...
+  Assignment 3.vcxproj -> C:\C++ Code\Assignment 3\x64\Debug\Assignment 3.exe
